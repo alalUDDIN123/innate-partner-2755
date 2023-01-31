@@ -35,8 +35,7 @@
 
 ---
 
-# Netlify Link Of The Project 
-* (https://euphonious-sable-199f27.netlify.app/)
+# Netlify Link Of The Project : https://ssense-clones.netlify.app/
 ---
 # Some Photes Of The Project
 
